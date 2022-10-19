@@ -7,3 +7,4 @@
 3. Run ```yarn install```
  4. Run ```npx expo start```
 #### Good luck! Have fun!
+# cs47-assignment2
