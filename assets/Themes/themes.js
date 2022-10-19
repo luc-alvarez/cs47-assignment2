@@ -9,7 +9,7 @@ export default Themes = {
     navigation: palette.black,
     shadows: {
       shadowColor: palette.black,
-      shadowOpacity: 0.4,
+      shadowOpacity: 1,
       shadowRadius: 5,
       shadowOffset: { width: -1, height: 5 },
     },
